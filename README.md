@@ -13,3 +13,7 @@ Here’s a refined description for your updated exercise:
 This exercise offers a hands-on opportunity to master basic HTML structure and essential tags, laying the groundwork for creating more complex webpages."  
 
 Let me know if you'd like additional details or examples to go along with it!
+
+![image](https://github.com/user-attachments/assets/7324deb9-3f38-4b5f-9319-95758b002e96)
+
+
